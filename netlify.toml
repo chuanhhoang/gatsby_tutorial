@@ -1,3 +1,4 @@
 [[redirects]]
   from = "/mylove/*"
   to = "/:splat"
+  status = 200
